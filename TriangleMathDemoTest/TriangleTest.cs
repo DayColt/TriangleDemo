@@ -1,6 +1,5 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TriangleMathDemo;
 
 namespace TriangleMathDemo.Test
 {
@@ -8,7 +7,7 @@ namespace TriangleMathDemo.Test
     public class TriangleTest
     {
         [TestMethod]
-        [ExpectedException(typeof(ArgumentException), "Sides if the triangle can be 0 or less")]
+        [ExpectedException(typeof(ArgumentException), "Sides in the triangle can be 0 or less")]
         public void Triangle_0and1and2_Exception0OrNegativeSide()
         {
             // Arrange
