@@ -13,7 +13,7 @@ namespace TriangleMathDemo
         /// <param name="side3"></param>
         public Triangle(double side1, double side2, double side3)
         {
-            if (side1 <= 0 || side2 <= 0 || side2 <= 0) throw new ArgumentException("Sides in the triangle can be 0 or less");
+            if (side1 <= 0 || side2 <= 0 || side3 <= 0) throw new ArgumentException("Sides in the triangle can be 0 or less");
 
             if (Math.Pow(side1, 2) == Math.Pow(side2, 2) + Math.Pow(side3, 2))
             {
