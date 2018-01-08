@@ -1,0 +1,6 @@
+D:\Work\Demo\TriangleMathDemo\TriangleMathDemo\bin\Debug\TriangleMathDemo.dll
+D:\Work\Demo\TriangleMathDemo\TriangleMathDemo\bin\Debug\TriangleMathDemo.pdb
+D:\Work\Demo\TriangleMathDemo\TriangleMathDemo\obj\Debug\TriangleMathDemo.csprojResolveAssemblyReference.cache
+D:\Work\Demo\TriangleMathDemo\TriangleMathDemo\obj\Debug\TriangleMathDemo.csproj.CoreCompileInputs.cache
+D:\Work\Demo\TriangleMathDemo\TriangleMathDemo\obj\Debug\TriangleMathDemo.dll
+D:\Work\Demo\TriangleMathDemo\TriangleMathDemo\obj\Debug\TriangleMathDemo.pdb
